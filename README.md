@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Fabian. I'm an electrical engineer, a part time artist (check out my ![website](https://www.fross-art.de) if you are curious) and a selftaught fullstack-developer who is currently working as technical support for a web application.
+My name is Fabian. I'm an electrical engineer, a part time artist (check out my [website](https://www.fross-art.de) if you are curious) and a selftaught fullstack-developer who is currently working as technical support for a web application.
 
 Cool to welcome you here on my repository! It is meant to be my portfolio but I'm also super happy if you find some inspiration for the project you might currently work on.
 
