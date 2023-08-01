@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Fabian. I'm an electrical engineer, a part time artist and a selftaught fullstack-developer who is currently working as technical support for a web application.
+
+Cool to welcome you here on my repository! It is meant to be my portfolio but I'm also super happy if you find some inspiration for the project you might currently work on.
 
 ## Technologies I've worked with
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
