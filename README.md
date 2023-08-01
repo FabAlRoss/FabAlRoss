@@ -7,6 +7,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/docker-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
 [![FabAlRoss's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabalross&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
